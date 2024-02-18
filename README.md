@@ -22,13 +22,16 @@ app.py: Arquivo principal que contém a lógica da aplicação Flask, incluindo 
  
 requirements.txt: Lista de dependências do Python necessárias para executar a aplicação.
 
+Como Usar:
 
-
-Como Usar
 Instale as dependências do Python: pip install -r requirements.txt
+
 Execute o aplicativo Flask: python app.py
+
 Acesse os endpoints da API para obter os dados do usuário conforme necessário.
+
 Contribuindo
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests com melhorias, correções de bugs ou novas funcionalidades.
 
 Licença
