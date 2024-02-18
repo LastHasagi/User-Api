@@ -25,7 +25,6 @@ requirements.txt: Lista de dependências do Python necessárias para executar a 
 
 
 Como Usar
-Clone o repositório do GitHub: git clone https://github.com/seu-usuario/nome-do-repositorio.git
 Instale as dependências do Python: pip install -r requirements.txt
 Execute o aplicativo Flask: python app.py
 Acesse os endpoints da API para obter os dados do usuário conforme necessário.
